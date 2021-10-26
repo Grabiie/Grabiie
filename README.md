@@ -1,25 +1,13 @@
 🇺🇸
 
-- 👋 Hi, I’m @Grabiie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Grabiie/Grabiie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Gabriel José
+- 👀 I'm interested in learning new languages
+- 🌱 I am currently learning javascript
+- 📫 Look for me at git.io/grabiie
 
 🇧🇷
 
-- 👋 Olá, sou @Grabiie
-- 👀 Estou interessado em ...
-- 🌱 Atualmente estou aprendendo ...
-- 💞️ Estou procurando colaborar em ...
-- 📫 Como me alcançar ...
-
-<! ---
-Grabiie / Grabiie é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-Você pode clicar no link Visualizar para ver suas alterações.
---->
+- 👋 Olá, sou o Gabriel José
+- 👀 Estou interessado em aprender novas linguagens
+- 🌱 Atualmente estou aprendendo javascript
+- 📫 Me procure em git.io/grabiie
